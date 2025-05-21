@@ -4,4 +4,4 @@ This is a mono-repo containing a collection of code, cad, photos, and design not
 
 **Note** doc folders can be ignored as they are only used to store assets needed for readmes. 
 
-![alt text](https://github.com/harsharan-r/Vex-Robotics/docs/assets/main/banner.jpg "Vex Robotics Championship")
+![alt text](https://github.com/harsharan-r/Vex-Robotics/blob/master/docs/assets/main/banner.jpg "Vex Robotics Championship")
